@@ -1,0 +1,2 @@
+Event-Creator
+Start with npm build For the Front End, it uses vite, please type npm run dev to start FOr the Back End, use node app.js instead of nodemon app.js. (New Post request change the in memory storage---> it triggers the nodemon rebooting)
